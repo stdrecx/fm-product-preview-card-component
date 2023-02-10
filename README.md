@@ -15,8 +15,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-Screenshot desktop - (./images/screenshot-desktop.jpg)
-Sscreenshot mobile - (./images/screenshot-mobile.jpg)
+Screenshot desktop - ![](./images/screenshot-desktop.jpg)
+Sscreenshot mobile - ![](./images/screenshot-mobile.jpg)
 
 ### Links
 
@@ -29,6 +29,8 @@ Sscreenshot mobile - (./images/screenshot-mobile.jpg)
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Media Queries
+- CSS icons
 
 ## Author
 
