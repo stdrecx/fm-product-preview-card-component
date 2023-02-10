@@ -98,7 +98,6 @@ body p {
 }
 
 .btn {
-  /* width: 236px; */
   height: 48px;
   background-color: var(--primary-dark-cyan);
   font-family: "Montserrat", sans-serif;
@@ -107,7 +106,15 @@ body p {
   border: 0;
   border-radius: 0.7rem;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.btnText {
+  margin-left: 5px;
+}
+
 
 .btn:active {
   background-color: var(--neutral-dark-blue);
